@@ -1,0 +1,30 @@
+  225  cd git_practice/
+  232  git status
+  233  git add
+  234  git add file_1.txt file_2.txt
+  236  git status
+  237  git commit
+  292  git status
+  505  git clone git@github.com:fong31h/Paul_repository.git
+  511  git status
+  514  git branch feature-fong31h
+  516  git branch
+  518  git switch features-fong31h
+  520  git branch -r
+  521  git branch -a
+  522  git branch
+  523  git switch feature-fong31h
+  524  git branch
+  538  git add .
+  540  git status
+  541  git commit -m 'create README2.md'
+  542  git push origin feature-fong31h
+  544  git branch
+  545  git pull
+  546  git switch main
+  547  git pull
+  550  cd git_practice/
+  554  git branch
+  555  git pull
+  559  git log --oneline > gitlog.txt
+  560  history | grep git > history.txt
